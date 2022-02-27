@@ -1,0 +1,10 @@
+#!/bin/bash
+INPUT_FILE=$1
+a=h
+b=m
+START_LINE=`head -n1 $INPUT_FILE`
+PATTERN="[A-Z]{2,3}-[[:digit:]]+ #time+ [0-9]["$a"-o"$b"]+ #comment+ "
+if ! [[ "$START_LINE" =~ $PATTERN ]]; then
+  printf "\e[1;33m Bad commit message:\n\e[0m\e[0;31m%s\n\e[0m\e[1;33m See example: CCC-123 #time 1h #comment message\n" >&2
+  exit 1
+fi

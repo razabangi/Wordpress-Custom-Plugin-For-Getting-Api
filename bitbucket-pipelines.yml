@@ -1,0 +1,21 @@
+image: smartapps/bitbucket-pipelines-debian-9
+pipelines:
+  branches:
+    master:
+      - step:
+         name: production
+         deployment: production
+         script:
+          - $PRODUCTION_DEPLOYMENT
+    development:
+      - step:
+         name: Staging
+         deployment: Staging
+         script:
+          - $STAGING_DEPLOYMENT 
+    hotfixes:
+      - step:
+         name: production
+         deployment: production
+         script:
+          - $HOTFIXES_DEPLOYMENT

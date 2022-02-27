@@ -1,0 +1,132 @@
+body
+{
+	/*padding: 0;
+	margin: 0;*/
+	box-sizing: border-box;
+	background: #262626;
+	font-family: sans-serif;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.container
+{
+	width: 70%;
+	margin: 0 auto;
+}
+
+header
+{
+	height: 40px;
+}
+
+#logo
+{
+	width: 20%;
+	float: left;
+}
+
+#top-menu
+{
+	width: 80%;
+	float: right;
+	/*margin-right: 20px;*/
+}
+
+#top-menu ul
+{
+	float: right;
+}
+
+#top-menu ul li
+{
+	display: inline;
+	margin-right: 20px;	
+}
+
+#top-menu ul li:nth-child(4)
+{
+	border-left: 1px solid red;
+	margin-left: 10px;
+	padding-left: 30px;
+}
+
+#top-menu ul li:nth-child(5)
+{
+	border: 1px solid orange;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+#top-menu ul li a
+{
+	text-decoration: none;
+	color: #fff;
+}
+
+
+
+section h2
+{
+	margin-top: 140px;
+	text-align: center;
+	font-size: 40px;
+	color: #fff;
+}
+
+section .main-box
+{
+	margin-top: 80px;
+}
+
+section .box-col
+{
+	border-radius: 10px;
+	margin-right: 5px;
+	height: auto;
+	width: 32%;
+	background: #fff;
+	float: left;
+}
+
+section .box-info
+{
+	padding: 30px;
+}
+
+section .box-col h4
+{
+	font-weight: bold;
+	font-size:25px;
+	margin-top: 30px;
+	color: #262626;
+}
+
+section .box-col p
+{
+	color: grey;
+	font-size: 16px;
+}
+
+
+
+section .box-footer
+{
+	padding: 15px;
+	background: #DC7964;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+
+section .box-footer a
+{
+	text-decoration: none;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: bold;
+}

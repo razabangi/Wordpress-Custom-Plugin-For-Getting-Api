@@ -1,0 +1,368 @@
+[26-Feb-2021 12:22:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bhouse_custom_post_type' not found or invalid function name in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php on line 287
+[26-Feb-2021 12:24:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'bhouse_custom_post_type' not found or invalid function name in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php on line 287
+[26-Feb-2021 12:26:05 UTC] PHP Notice:  register_post_type was called <strong>incorrectly</strong>. Post type names must be between 1 and 20 characters in length. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.2.0.) in /home/muhammad/Sites/git-wp-base/public/wp-includes/functions.php on line 5311
+[26-Feb-2021 12:28:06 UTC] PHP Notice:  register_post_type was called <strong>incorrectly</strong>. Post type names must be between 1 and 20 characters in length. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.2.0.) in /home/muhammad/Sites/git-wp-base/public/wp-includes/functions.php on line 5311
+[26-Feb-2021 12:29:06 UTC] PHP Notice:  register_post_type was called <strong>incorrectly</strong>. Post type names must be between 1 and 20 characters in length. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.2.0.) in /home/muhammad/Sites/git-wp-base/public/wp-includes/functions.php on line 5311
+[26-Feb-2021 12:30:06 UTC] PHP Notice:  register_post_type was called <strong>incorrectly</strong>. Post type names must be between 1 and 20 characters in length. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.2.0.) in /home/muhammad/Sites/git-wp-base/public/wp-includes/functions.php on line 5311
+[26-Feb-2021 12:31:06 UTC] PHP Notice:  register_post_type was called <strong>incorrectly</strong>. Post type names must be between 1 and 20 characters in length. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.2.0.) in /home/muhammad/Sites/git-wp-base/public/wp-includes/functions.php on line 5311
+[26-Feb-2021 12:31:58 UTC] PHP Notice:  register_post_type was called <strong>incorrectly</strong>. Post type names must be between 1 and 20 characters in length. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.2.0.) in /home/muhammad/Sites/git-wp-base/public/wp-includes/functions.php on line 5311
+[26-Feb-2021 13:33:38 UTC] PHP Notice:  Undefined variable: args_valueofaneducation in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 368
+[26-Feb-2021 13:35:38 UTC] PHP Notice:  Undefined variable: args_valueofaneducation in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 368
+[26-Feb-2021 13:37:38 UTC] PHP Notice:  Undefined variable: args_valueofaneducation in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 368
+[26-Feb-2021 13:39:38 UTC] PHP Notice:  Undefined variable: args_valueofaneducation in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 368
+[26-Feb-2021 13:41:38 UTC] PHP Notice:  Undefined variable: args_valueofaneducation in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 368
+[26-Feb-2021 13:43:38 UTC] PHP Notice:  Undefined variable: args_valueofaneducation in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 368
+[26-Feb-2021 13:45:38 UTC] PHP Notice:  Undefined variable: args_valueofaneducation in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 368
+[26-Feb-2021 13:47:38 UTC] PHP Notice:  Undefined variable: args_valueofaneducation in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 368
+[26-Feb-2021 13:49:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 19
+[26-Feb-2021 13:51:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 19
+[26-Feb-2021 13:53:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 19
+[26-Feb-2021 13:55:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 19
+[26-Feb-2021 13:57:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 19
+[26-Feb-2021 13:58:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 19
+[26-Feb-2021 13:59:22 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 19
+[26-Feb-2021 13:59:39 UTC] PHP Notice:  register_post_type was called <strong>incorrectly</strong>. Post type names must be between 1 and 20 characters in length. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.2.0.) in /home/muhammad/Sites/git-wp-base/public/wp-includes/functions.php on line 5311
+[26-Feb-2021 14:02:40 UTC] PHP Notice:  Undefined index: nam in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 28
+[26-Feb-2021 14:28:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 91
+[26-Feb-2021 14:30:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 91
+[26-Feb-2021 14:32:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 91
+[26-Feb-2021 14:34:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 91
+[26-Feb-2021 14:36:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 94
+[26-Feb-2021 14:38:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 96
+[26-Feb-2021 14:38:37 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 96
+[26-Feb-2021 14:41:38 UTC] PHP Notice:  Trying to get property 'show_ui' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-admin/includes/class-wp-terms-list-table.php on line 571
+[26-Feb-2021 14:41:38 UTC] PHP Notice:  Trying to get property 'show_ui' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-admin/includes/class-wp-terms-list-table.php on line 571
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[26-Feb-2021 14:45:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-post-type.php on line 650
+[01-Mar-2021 08:00:59 UTC] PHP Warning:  define() expects at least 2 parameters, 1 given in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 169
+[01-Mar-2021 08:00:59 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:00:59 UTC] PHP Notice:  Undefined index: togglelink in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:00:59 UTC] PHP Notice:  Undefined variable: custom_checkbox_val in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 74
+[01-Mar-2021 08:02:05 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:02:05 UTC] PHP Notice:  Undefined index: togglelink in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:02:05 UTC] PHP Notice:  Undefined variable: custom_checkbox_val in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 74
+[01-Mar-2021 08:02:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function the_ID() on null in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php:174
+Stack trace:
+#0 /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php(289): save_details(112)
+#1 /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/muhammad/Sites/git-wp-base/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /home/muhammad/Sites/git-wp-base/public/wp-includes/post.php(4309): do_action('save_post', 112, Object(WP_Post), false)
+#4 /home/muhammad/Sites/git-wp-base/public/wp-admin/includes/post.php(690): wp_insert_post(Array, false, false)
+#5 /home/muhammad/Sites/git-wp-base/public/wp-admin/post-new.php(66): get_default_post_to_edit('valueofaneducat...', true)
+#6 /home/muhammad/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('/home/muhammad/...')
+#7 {main}
+  thrown in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:02:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function ID() on null in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php:174
+Stack trace:
+#0 /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php(289): save_details(113)
+#1 /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/muhammad/Sites/git-wp-base/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /home/muhammad/Sites/git-wp-base/public/wp-includes/post.php(4309): do_action('save_post', 113, Object(WP_Post), false)
+#4 /home/muhammad/Sites/git-wp-base/public/wp-admin/includes/post.php(690): wp_insert_post(Array, false, false)
+#5 /home/muhammad/Sites/git-wp-base/public/wp-admin/post-new.php(66): get_default_post_to_edit('valueofaneducat...', true)
+#6 /home/muhammad/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('/home/muhammad/...')
+#7 {main}
+  thrown in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:02:36 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:02:36 UTC] PHP Notice:  Undefined index: togglelink in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:02:36 UTC] PHP Notice:  Undefined variable: custom_checkbox_val in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 74
+[01-Mar-2021 08:03:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 68
+[01-Mar-2021 08:03:58 UTC] PHP Notice:  Undefined variable: custom_checkbox_val in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 74
+[01-Mar-2021 08:03:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 176
+[01-Mar-2021 08:03:58 UTC] PHP Notice:  Undefined index: togglelink in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 176
+[01-Mar-2021 08:03:58 UTC] PHP Notice:  Undefined variable: custom_checkbox_val in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 74
+[01-Mar-2021 08:04:14 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 175
+[01-Mar-2021 08:04:14 UTC] PHP Notice:  Undefined index: togglelink in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 175
+[01-Mar-2021 08:04:14 UTC] PHP Notice:  Undefined variable: custom_checkbox_val in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 74
+[01-Mar-2021 08:19:58 UTC] PHP Warning:  define() expects at least 2 parameters, 1 given in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 169
+[01-Mar-2021 08:19:58 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:19:58 UTC] PHP Notice:  Undefined index: togglelink in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:20:34 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:20:34 UTC] PHP Notice:  Undefined index: togglelink in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:22:39 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 179
+[01-Mar-2021 08:22:39 UTC] PHP Notice:  Undefined index: togglelink in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 179
+[01-Mar-2021 08:23:35 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 192
+[01-Mar-2021 08:23:35 UTC] PHP Notice:  Undefined index: togglelink in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 192
+[01-Mar-2021 08:24:09 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:24:09 UTC] PHP Notice:  Undefined index: togglelink in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:24:30 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:24:30 UTC] PHP Notice:  Undefined index: togglelink in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:26:19 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:26:19 UTC] PHP Notice:  Undefined index: toggle_resource_link in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 174
+[01-Mar-2021 08:26:49 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 176
+[01-Mar-2021 08:26:49 UTC] PHP Notice:  Undefined index: toggle_resource_link in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 176
+[01-Mar-2021 08:30:56 UTC] PHP Notice:  Undefined variable: custom_checkbox_val in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[01-Mar-2021 08:31:17 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[01-Mar-2021 08:45:06 UTC] PHP Notice:  Undefined index: toggle_resource_link in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 169
+[01-Mar-2021 08:45:51 UTC] PHP Notice:  Undefined index: toggle_resource_link in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 169
+[01-Mar-2021 08:47:07 UTC] PHP Notice:  Undefined index: toggle_resource_link in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 169
+[01-Mar-2021 08:47:22 UTC] PHP Notice:  Undefined index: toggle_resource_link in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 169
+[01-Mar-2021 08:47:22 UTC] PHP Notice:  Undefined index: toggle_resource_link in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 169
+[01-Mar-2021 08:47:38 UTC] PHP Notice:  Undefined index: toggle_resource_link in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 169
+[01-Mar-2021 08:48:23 UTC] PHP Notice:  Undefined index: toggle_resource_link in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 169
+[01-Mar-2021 08:48:32 UTC] PHP Notice:  Undefined index: toggle_resource_link in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 169
+[01-Mar-2021 08:49:41 UTC] PHP Notice:  Undefined index: toggle_resource_link in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 169
+[01-Mar-2021 08:50:18 UTC] PHP Notice:  Undefined index: toggle_resource_link in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 169
+[01-Mar-2021 09:22:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 171
+[01-Mar-2021 09:59:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'thecb_create_category_taxonomies' not found or invalid function name in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php on line 287
+[01-Mar-2021 10:00:01 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'thecb_create_category_taxonomies' not found or invalid function name in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php on line 287
+[01-Mar-2021 10:00:24 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'thecb_create_category_taxonomies' not found or invalid function name in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php on line 287
+[01-Mar-2021 10:00:49 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 67
+[01-Mar-2021 10:45:53 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php on line 63
+[01-Mar-2021 10:46:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php on line 63
+[01-Mar-2021 16:29:46 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 88
+[01-Mar-2021 16:29:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 88
+[01-Mar-2021 16:30:47 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php:89
+Stack trace:
+#0 /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php(217): init()
+#1 /home/muhammad/Sites/git-wp-base/public/wp-settings.php(525): include('/home/muhammad/...')
+#2 /home/muhammad/Sites/git-wp-base/public/wp-config.php(106): require_once('/home/muhammad/...')
+#3 /home/muhammad/Sites/git-wp-base/public/wp-load.php(37): require_once('/home/muhammad/...')
+#4 /home/muhammad/Sites/git-wp-base/public/wp-admin/admin.php(34): require_once('/home/muhammad/...')
+#5 /home/muhammad/Sites/git-wp-base/public/wp-admin/edit-tags.php(10): require_once('/home/muhammad/...')
+#6 /home/muhammad/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('/home/muhammad/...')
+#7 {main}
+  thrown in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 89
+[01-Mar-2021 16:34:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/inc/category_image.php on line 41
+[02-Mar-2021 08:22:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php on line 48
+[02-Mar-2021 08:24:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php on line 48
+[02-Mar-2021 08:25:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php on line 48
+[02-Mar-2021 08:34:44 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php on line 43
+[02-Mar-2021 09:00:42 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/inc/category_image.php on line 77
+[02-Mar-2021 09:00:44 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/inc/category_image.php on line 77
+[02-Mar-2021 12:22:57 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php on line 66
+[02-Mar-2021 12:29:28 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 67
+[02-Mar-2021 12:41:44 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 38
+[02-Mar-2021 12:43:44 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 38
+[02-Mar-2021 12:45:45 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 38
+[02-Mar-2021 12:46:24 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 38
+[02-Mar-2021 12:53:29 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 101
+[02-Mar-2021 12:54:54 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 93
+[02-Mar-2021 12:55:29 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 93
+[02-Mar-2021 12:56:07 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 93
+[02-Mar-2021 12:56:08 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 93
+[02-Mar-2021 12:57:09 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 93
+[02-Mar-2021 12:57:29 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 93
+[02-Mar-2021 12:58:09 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 93
+[02-Mar-2021 12:58:16 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 93
+[02-Mar-2021 12:58:22 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 93
+[02-Mar-2021 12:58:28 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 93
+[02-Mar-2021 12:58:34 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 93
+[02-Mar-2021 12:58:39 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 93
+[02-Mar-2021 12:59:19 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 95
+[02-Mar-2021 12:59:29 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 95
+[02-Mar-2021 12:59:51 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 95
+[02-Mar-2021 12:59:52 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 95
+[02-Mar-2021 13:00:07 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 95
+[02-Mar-2021 13:00:07 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 95
+[02-Mar-2021 13:00:07 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 95
+[02-Mar-2021 13:00:39 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 95
+[02-Mar-2021 13:00:39 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 95
+[02-Mar-2021 13:00:39 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 95
+[02-Mar-2021 13:01:14 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 95
+[02-Mar-2021 13:01:14 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 95
+[02-Mar-2021 13:01:29 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 91
+[02-Mar-2021 13:01:29 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 91
+[02-Mar-2021 13:01:50 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:01:50 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:02:51 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:03:10 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:03:10 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:03:16 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:03:16 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:04:16 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:04:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:04:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:05:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:06:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:07:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:08:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:09:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:10:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:11:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:12:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:13:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:14:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:15:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:16:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:17:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:18:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:19:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:20:57 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:21:58 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:23:59 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 90
+[02-Mar-2021 13:26:00 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 129
+[02-Mar-2021 13:28:00 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 146
+[02-Mar-2021 13:28:15 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 91
+[02-Mar-2021 13:28:15 UTC] PHP Notice:  Undefined variable: custom_checkbox_val in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 52
+[02-Mar-2021 13:28:15 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 91
+[02-Mar-2021 13:29:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 86
+[02-Mar-2021 13:29:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 86
+[02-Mar-2021 13:29:12 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 91
+[02-Mar-2021 13:29:12 UTC] PHP Notice:  Undefined variable: custom_checkbox_val in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 52
+[02-Mar-2021 13:30:13 UTC] PHP Warning:  Use of undefined constant ﻿ - assumed '﻿' (this will throw an Error in a future version of PHP) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 91
+[02-Mar-2021 15:16:55 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php on line 59
+[03-Mar-2021 07:57:56 UTC] PHP Notice:  Undefined variable: custom_checkbox in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 68
+[03-Mar-2021 07:57:56 UTC] PHP Notice:  Undefined variable: custom_checkbox in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[03-Mar-2021 07:57:56 UTC] PHP Notice:  Undefined variable: custom_checkbox in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 68
+[03-Mar-2021 07:57:56 UTC] PHP Notice:  Undefined variable: custom_checkbox in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[03-Mar-2021 08:07:26 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[03-Mar-2021 08:07:42 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[03-Mar-2021 08:08:28 UTC] PHP Notice:  Undefined variable: custom_checkbox_val in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[03-Mar-2021 08:08:28 UTC] PHP Notice:  Undefined variable: custom_checkbox_val in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[03-Mar-2021 08:08:49 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[03-Mar-2021 08:08:56 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[03-Mar-2021 08:09:10 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 67
+[03-Mar-2021 08:09:31 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[03-Mar-2021 08:21:45 UTC] PHP Notice:  Undefined variable: custom_checkbox in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[03-Mar-2021 08:21:45 UTC] PHP Notice:  Undefined variable: thecb_checkbox_value in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[03-Mar-2021 08:21:45 UTC] PHP Notice:  Undefined variable: custom_checkbox in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[03-Mar-2021 08:21:45 UTC] PHP Notice:  Undefined variable: thecb_checkbox_value in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[03-Mar-2021 09:05:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_parts() in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php:47
+Stack trace:
+#0 /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php(289): thecb_toggle_button_callback()
+#1 /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#2 /home/muhammad/Sites/git-wp-base/public/wp-includes/plugin.php(484): WP_Hook->do_action()
+#3 /home/muhammad/Sites/git-wp-base/public/wp-includes/post.php(4309): do_action()
+#4 /home/muhammad/Sites/git-wp-base/public/wp-admin/includes/post.php(690): wp_insert_post()
+#5 /home/muhammad/Sites/git-wp-base/public/wp-admin/post-new.php(66): get_default_post_to_edit()
+#6 /home/muhammad/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('/home/muhammad/...')
+#7 {main}
+  thrown in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 47
+[03-Mar-2021 09:39:46 UTC] PHP Notice:  Undefined variable: custom_checkbox in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 71
+[03-Mar-2021 09:39:46 UTC] PHP Notice:  Undefined variable: custom_checkbox in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 71
+[03-Mar-2021 09:49:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'thecb_toggle_button_callback' not found or invalid function name in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php on line 289
+[03-Mar-2021 09:50:01 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'thecb_toggle_button_callback' not found or invalid function name in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php on line 289
+[03-Mar-2021 09:50:01 UTC] PHP Notice:  Undefined variable: post_id in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 55
+[03-Mar-2021 09:50:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'thecb_toggle_button_callback' not found or invalid function name in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php on line 289
+[03-Mar-2021 09:51:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'thecb_toggle_button_callback' not found or invalid function name in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php on line 289
+[03-Mar-2021 09:57:38 UTC] PHP Notice:  Undefined variable: post in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 76
+[03-Mar-2021 09:57:38 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 76
+[03-Mar-2021 09:57:38 UTC] PHP Notice:  Undefined offset: 0 in /home/muhammad/Sites/git-wp-base/public/wp-includes/plugin.php on line 928
+[03-Mar-2021 09:57:38 UTC] PHP Notice:  Undefined offset: 0 in /home/muhammad/Sites/git-wp-base/public/wp-includes/plugin.php on line 931
+[03-Mar-2021 09:57:54 UTC] PHP Notice:  Undefined variable: post in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 76
+[03-Mar-2021 09:57:54 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 76
+[03-Mar-2021 09:57:54 UTC] PHP Notice:  Undefined offset: 0 in /home/muhammad/Sites/git-wp-base/public/wp-includes/plugin.php on line 928
+[03-Mar-2021 09:57:54 UTC] PHP Notice:  Undefined offset: 0 in /home/muhammad/Sites/git-wp-base/public/wp-includes/plugin.php on line 931
+[03-Mar-2021 09:57:54 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php on line 285
+[03-Mar-2021 09:57:54 UTC] PHP Notice:  Undefined variable: post in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 76
+[03-Mar-2021 09:57:54 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 76
+[03-Mar-2021 09:57:54 UTC] PHP Notice:  Undefined offset: 0 in /home/muhammad/Sites/git-wp-base/public/wp-includes/plugin.php on line 928
+[03-Mar-2021 09:57:54 UTC] PHP Notice:  Undefined offset: 0 in /home/muhammad/Sites/git-wp-base/public/wp-includes/plugin.php on line 931
+[03-Mar-2021 09:58:04 UTC] PHP Notice:  Undefined variable: post_id in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 76
+[03-Mar-2021 09:58:04 UTC] PHP Notice:  Undefined offset: 0 in /home/muhammad/Sites/git-wp-base/public/wp-includes/plugin.php on line 928
+[03-Mar-2021 09:58:04 UTC] PHP Notice:  Undefined offset: 0 in /home/muhammad/Sites/git-wp-base/public/wp-includes/plugin.php on line 931
+[03-Mar-2021 09:58:04 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php on line 285
+[03-Mar-2021 10:29:15 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function 'thecb_toggle_button_callback_link' not found or invalid function name in /home/muhammad/Sites/git-wp-base/public/wp-admin/includes/template.php on line 1389
+[03-Mar-2021 10:58:33 UTC] PHP Fatal error:  Cannot redeclare wl_all_categories() (previously declared in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php:16) in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php on line 58
+[03-Mar-2021 13:57:33 UTC] PHP Fatal error:  Cannot redeclare wp_post_by_category() (previously declared in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php:100) in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php on line 192
+[04-Mar-2021 10:15:41 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:17:53 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:18:21 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:18:28 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:18:40 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:19:13 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:19:20 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:19:29 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:19:36 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:19:45 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:20:20 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:20:28 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:22:34 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:23:03 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:23:16 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:24:18 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:34:41 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[04-Mar-2021 10:35:02 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[05-Mar-2021 12:00:15 UTC] PHP Notice:  Undefined index: toggle_resource_link_btn in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[05-Mar-2021 12:58:06 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php on line 171
+[11-Mar-2021 07:56:41 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[11-Mar-2021 07:56:55 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[11-Mar-2021 07:57:05 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[18-Mar-2021 16:36:20 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[18-Mar-2021 16:37:09 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[18-Mar-2021 16:45:23 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[18-Mar-2021 16:54:52 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "paged", expecting ")" in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php on line 274
+[19-Mar-2021 10:00:30 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[19-Mar-2021 10:02:52 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[19-Mar-2021 10:03:02 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[19-Mar-2021 10:07:15 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[19-Mar-2021 10:14:03 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[19-Mar-2021 10:14:23 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[19-Mar-2021 10:36:44 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[19-Mar-2021 10:38:09 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[19-Mar-2021 10:38:41 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:26:42 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:36:52 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:39:24 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:39:41 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:40:26 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:40:44 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:41:37 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:41:53 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:42:43 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:44:32 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:45:04 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:47:14 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:48:53 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:49:11 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:50:45 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:51:29 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:51:47 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:53:47 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:54:06 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:54:43 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 16:56:19 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 17:05:20 UTC] PHP Parse error:  syntax error, unexpected token "->", expecting ")" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 35
+[24-Mar-2021 17:05:44 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 3
+[24-Mar-2021 17:05:45 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 3
+[24-Mar-2021 17:05:53 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 3
+[24-Mar-2021 17:05:53 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 3
+[24-Mar-2021 17:05:54 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 3
+[24-Mar-2021 17:06:06 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 3
+[24-Mar-2021 17:06:06 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 69
+[24-Mar-2021 17:06:06 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 3
+[24-Mar-2021 17:06:07 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 3
+[24-Mar-2021 17:12:38 UTC] PHP Warning:  Array to string conversion in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[24-Mar-2021 17:12:55 UTC] PHP Warning:  Array to string conversion in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 73
+[24-Mar-2021 17:15:11 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[24-Mar-2021 17:22:45 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[25-Mar-2021 08:22:36 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[25-Mar-2021 08:28:48 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[25-Mar-2021 08:28:58 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[25-Mar-2021 08:29:35 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[25-Mar-2021 08:33:58 UTC] PHP Parse error:  syntax error, unexpected token "if", expecting ":" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/meta_boxes_form/toggle_button_form.php on line 77
+[25-Mar-2021 08:36:54 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[25-Mar-2021 08:37:32 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[25-Mar-2021 08:38:18 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[25-Mar-2021 08:38:41 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[25-Mar-2021 08:45:53 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 68
+[25-Mar-2021 09:29:01 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/muhammad/Sites/git-wp-base/public/wp-content/plugins/wp-api/wp-api.php on line 281
+[25-Mar-2021 09:35:26 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 69
+[25-Mar-2021 09:40:03 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function thecb_toggle_button_callback_link_save(), 1 passed in /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php on line 289 and exactly 2 expected in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php:35
+Stack trace:
+#0 /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php(289): thecb_toggle_button_callback_link_save()
+#1 /home/muhammad/Sites/git-wp-base/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#2 /home/muhammad/Sites/git-wp-base/public/wp-includes/plugin.php(484): WP_Hook->do_action()
+#3 /home/muhammad/Sites/git-wp-base/public/wp-includes/post.php(4309): do_action()
+#4 /home/muhammad/Sites/git-wp-base/public/wp-includes/post.php(4411): wp_insert_post()
+#5 /home/muhammad/Sites/git-wp-base/public/wp-admin/includes/post.php(419): wp_update_post()
+#6 /home/muhammad/Sites/git-wp-base/public/wp-admin/post.php(227): edit_post()
+#7 /home/muhammad/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#8 {main}
+  thrown in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 35
+[25-Mar-2021 09:43:30 UTC] PHP Warning:  Undefined array key "toggle_resource_link_btn" in /home/muhammad/Sites/git-wp-base/public/wp-content/themes/thecb/functions.php on line 67
